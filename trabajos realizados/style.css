@@ -1,0 +1,37 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+.card-title{
+	color: #191919;
+	font-weight: 400;
+}
+
+.card-text{
+	font-weight: lighter;
+	font-size: 14px;
+}
+
+.btn{
+	font-weight: lighter;
+	font-size: 13px;
+}
+
+.titulo_trabajos-realizados{
+	color: #191919;
+	text-transform: uppercase;
+	margin-top: 50px;
+	margin-bottom: 5px;
+}
+
+.subtitulo_trabajos-realizados{
+	font-size: 15px;
+	color: #707070;
+	margin-bottom: 50px;
+}
